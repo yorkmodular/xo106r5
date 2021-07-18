@@ -14,7 +14,8 @@ The oscillators are no longer hardwired to the logic IC; you can patch things to
 
 THE DEFAULT CONFIGURATION FOR THIS WILL BE A PCB/PANEL/FIRMWARE SET - I don't recommend this is as a beginners project.
 
-The firmware for this module is the same as that for the Squascillator VCO - you will need to burn four firmware ICs.
+* The firmware for this module is the same as that for the Squascillator VCO - you will need to burn four firmware ICs.
+* The two jumpers (JP1 and JP2) control the response of the filter pots - use a blob of solder to bridge the centre pad with one of the outer pads
 
 The terminally curious can view [Johnny Beaver's demo of a prototype unit in action on YouTube ...](https://youtu.be/iXnucviOB_w)
 
