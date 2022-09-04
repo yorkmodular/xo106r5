@@ -19,3 +19,8 @@ THE DEFAULT CONFIGURATION FOR THIS WILL BE A PCB/PANEL/FIRMWARE SET - I don't re
 
 The terminally curious can view [Johnny Beaver's demo of a prototype unit in action on YouTube ...](https://youtu.be/iXnucviOB_w)
 
+### Panel files
+
+If want to roll your own panel, there are two panel files in the repo - the KiCAD board file is the same one that I use for the panels of 'retail' units. If 
+you have some KiCAD-fu then you can customise it to your heart's content and then send the resulting file off to you friendly local fab for production. The DXF
+file consists of the Edge-Cuts PCB layer and can be consumed by most laser cutters - this panel is unadorned.
